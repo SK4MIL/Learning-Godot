@@ -1,0 +1,11 @@
+res://Scenes/game.tscn
+res://Scenes/player.tscn
+res://Scenes/grass_platform.tscn
+res://Scenes/sand_platform.tscn
+res://Scenes/coin.tscn
+res://Scenes/killzone.tscn
+res://Scenes/slime.tscn
+res://Scripts/killzone.gd
+res://Scripts/player.gd
+res://Scripts/gameManager.gd
+res://Scripts/coin.gd
